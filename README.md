@@ -84,8 +84,8 @@ Try these in the UI:
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com//ai-ecommerce-agent.git
-cd ai-ecommerce-agent
+git clone https://github.com/Sanjuu2004/Ecommerce_AI_Agent
+cd Ecommerce_AI_Agent
 ```
 
 ### 2️⃣ Install Dependencies
@@ -176,26 +176,3 @@ streamlit run app.py
   python-dotenv
   ```
 
----
-
-## 🙋 Contributing
-
-1. Fork this repo
-2. Create a branch: `feature/your-feature`
-3. Submit a PR 🚀
-
----
-
-## 📄 License
-
-This project is under the **MIT License**.
-
----
-
-## 🙌 Credits
-
-Made with ❤️ by **Sanju K** and powered by:
-- [Gemini](https://deepmind.google/technologies/gemini/)
-- [Streamlit](https://streamlit.io/)
-- [Plotly](https://plotly.com/)
-- [Flask](https://flask.palletsprojects.com/)
