@@ -62,8 +62,6 @@ ai-ecommerce-agent/
 | ✅ Stage 6 | Create secure user login (JSON-based) |
 | ✅ Stage 7 | Build Streamlit UI (`app.py`) with animations |
 | ✅ Stage 8 | Blend visualizations and tabular output in UI |
-| 🔄 Stage 9 | Deployment on **Streamlit Cloud** + backend via **Ngrok / Render** |
-| 🔜 Stage 10 | Add download/share features for charts, QA history |
 
 ---
 
@@ -75,6 +73,10 @@ Try these in the UI:
 - **“Compare ad sales vs ad spend by date”**
 - **“Plot top 5 items by impressions”**
 - **“What are the trends of clicks over time?”**
+- **“Which items have the highest click-through rate (CTR)?”**
+- **“Plot total sales, clicks, and CTR trends by date”**
+- **“Show return rate by product category”**
+- **“Compare cost per click (CPC) across campaigns”**
 
 ---
 
@@ -82,7 +84,7 @@ Try these in the UI:
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/yourusername/ai-ecommerce-agent.git
+git clone https://github.com//ai-ecommerce-agent.git
 cd ai-ecommerce-agent
 ```
 
