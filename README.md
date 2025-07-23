@@ -1,8 +1,11 @@
 # 🛒 AI E-commerce Data Agent
 
 An intelligent, interactive agent powered by LLMs that enables users to ask natural language questions about e-commerce data — and get back insights via charts, tables, and textual summaries. Built using **Gemini Pro**, **Flask**, **SQLite**, and a modern **Streamlit UI** with user login.
-
 ---
+## 🎥 Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/drive/folders/1jgusrHDn2iyPf9SViGW5PA43Ti4wAagD)
+
 
 ## 📁 Project Structure
 
