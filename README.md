@@ -109,7 +109,7 @@ python db_loader.py
 ### 5️⃣ Start Backend (Flask API)
 ```bash
 cd app
-python api.py
+python main.py
 ```
 Runs at `http://127.0.0.1:5000`
 
