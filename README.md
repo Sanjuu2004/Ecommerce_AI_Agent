@@ -153,6 +153,15 @@ streamlit run app.py
 
 ---
 
+## Implementation Screenshots
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/b4d2a7d9-9be5-4164-a656-0e01925e572f" />
+<img width="1917" height="936" alt="image" src="https://github.com/user-attachments/assets/9fd7e4d1-9af8-4334-8440-fb33dfcf34cf" />
+<img width="1587" height="823" alt="image" src="https://github.com/user-attachments/assets/c6c7a611-aed5-4e7d-9b56-f88aa519ff26" />
+<img width="1570" height="777" alt="image" src="https://github.com/user-attachments/assets/6fb1922b-c29d-4f3e-b9bd-3f1e045f61a8" />
+
+
+
+
 ## 📊 Visualization Support
 
 - Uses **Plotly** to render:
